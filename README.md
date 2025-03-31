@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Practice
 
-This repository contains a list of simple programs that was written by me to practice data structures and algorithms.
+This repository contains a list of simple programs that was written by me to practice data structures and algorithms!
 
 ## Project Structure
 
